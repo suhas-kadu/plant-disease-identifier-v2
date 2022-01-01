@@ -12,4 +12,13 @@ Image: RGB, 256x256
 
 ### Environment: 
 Tensorflow: 2.5+, Keras: 2.5+  
-IDE: Kaggle and Google Colab with GPU enabled, VS code
+IDE: Kaggle and Google Colab with GPU enabled, VS code  
+
+### Flowchat
+<div align="center">
+<img src="flowchart.png" />
+</div>
+
+### Results
+Training Accuracy: 92.32%  
+Testing Accuracy: 83.41%
