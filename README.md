@@ -22,3 +22,5 @@ IDE: Kaggle and Google Colab with GPU enabled, VS code
 ### Results
 Training Accuracy: 92.32%  
 Testing Accuracy: 83.41%
+
+<img src="tflite_example.gif" width="325" />
